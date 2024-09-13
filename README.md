@@ -24,7 +24,7 @@
 23 day
 24 day
 25 day
-26 day
+26 96day
 27 day
 28 day
 29 day
